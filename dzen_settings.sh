@@ -1,0 +1,35 @@
+#!/bin/bash
+
+SLEEP=1
+
+# Font
+FONT="-*-termsyn-medium-r-*-*-12-*-*-*-*-*-*-*"
+OPACITY='1'
+
+# Colors
+BG="#131313"
+FG="#777777"
+
+RED="#E84F4F"
+LRED="#D23D3D"
+
+GREEN="#B8D68C"
+LGREEN="#A0CF5D"
+
+YELLOW="#E1AA5D"
+LYELLOW="#F39D21"
+
+BLUE="#7DC1CF"
+LBLUE="#4E9FB1"
+
+MAGENTA="#9B64FB"
+LMAGENTA="#8542FF"
+
+CYAN="#6D878D"
+LCYAN="#42717B"
+
+# Geometry
+HEIGHT=20
+WIDTH=20
+X=6
+Y=60
